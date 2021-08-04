@@ -1,0 +1,9 @@
+[package]
+name = "howmanysmall/Janitor"
+version = "1.13.4"
+authors = ["howmanysmall"]
+registry = "https://github.com/UpliftGames/wally-index"
+license = "MIT"
+realm = "shared"
+
+[dependencies]
